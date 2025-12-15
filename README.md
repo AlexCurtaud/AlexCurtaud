@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name's Alex, i'm a novice in the world of programmation.
-I recently started to learn from Le Campus Numérique in The Alps in Annecy. 8 months of a FullStack curriculum, from October 2025 to June 2026. Then a apprenticeship of a year in a company
+I recently started to learn from Le Campus Numérique in The Alps in Annecy. 8 months of a FullStack curriculum, from October 2025 to June 2026. Then an apprenticeship of a year in a company
 
 ### Projects
 I'm currently working on a few personnal projects that I will share when I will be ready to.
