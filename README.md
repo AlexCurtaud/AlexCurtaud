@@ -15,5 +15,6 @@ Mobile App > Interested with React Native. Earing some nice stuff from Flutter a
 & as well learning SQL
 Database > Learning PostgreSQL following the freecodecamp.org curriculum
 
+------------------------
 
 I'm looking forward to this journey in this amazing community, and I'll try to participate to Open Source project as soon as I will be a bit more confident in my skills.
