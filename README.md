@@ -9,7 +9,7 @@ I'm currently working on a few personnal projects that I will share when I will 
 The projects I'm working on are websites and Mobile Apps.
 
 ### Languages
-🌱 I'm no master in any, but for now, I focusing on Javascript in order to developp :
+🌱 I'm no master in any, but for now, I'm focusing on Javascript in order to developp :
 Webiste > Trying to developp thanks to Vue.js and React and thanks to my notions in HTML & CSS.
 Mobile App > Interested with React Native. Earing some nice stuff from Flutter as well... difficult choice but we have to start somewhere at some point.
 & as well learning SQL
