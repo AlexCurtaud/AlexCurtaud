@@ -8,7 +8,7 @@ I'm currently working on a personnal project that I will share when I will be re
 This project aimed to be a combo with a website and a mobile app. Still not sure which stack I should use but gradually reducing my scope to few languages/framework.
 More to come soon.
 
-Otherwise, school projects (PHP, Laravel, JavaScript) that I'm currently improving. You can already have a look a them on my Public Repo.
+Otherwise, school projects (PHP, Laravel, JavaScript) that I'm currently improving. You can already have a look at them on my Public Repo.
 A lot to improve, but I grinding for it !
 
 ## Stack
