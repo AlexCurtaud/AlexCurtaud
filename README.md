@@ -5,10 +5,10 @@ I recently started to learn from Le Campus Numérique in The Alps in Annecy. 8 m
 
 ## Projects
 I'm currently working on a personnal project that I will share when I will be ready to.
-This project aimed to be a combo with a website and a mobile app. Still not sure which stack I should use but gradually reducing my scope to few languages/framework.
+This project aimed to be a combo with a website and a mobile app. I started my API with Java Spring Boot, a PostgreSQL Database as well as a Vue.js Frontend. In a second phase, I'll start the Mobile App using Flutter.
 More to come soon.
 
-Otherwise, school projects (PHP, Laravel, JavaScript) that I'm currently improving. You can already have a look at them on my Public Repo.
+Otherwise, school projects (PHP, Laravel, JavaScript, Java, Python) that I'm currently improving. You can already have a look at them on my Public Repo.
 A lot to improve, but I grinding for it !
 
 ## Stack
@@ -16,20 +16,18 @@ A lot to improve, but I grinding for it !
 
 Frontend
 Webiste
-- For now, JS/CSS/HTML but aiming for Vue.js.
-- It seems to be a good choice as it is well used and documented.
-- Also My school program will lead me to a 2/3 weeks course on it. Starting soon.
+- For now, JS/CSS/HTML and training my Vue.js skills as well.
+- My school program will lead me to a 2/3 weeks on Vue, so I will gain more experience.
 
 Mobile App
-- Interested with React Native
-- Earing some nice stuff from Flutter as well...
-- Difficult choice but we have to start somewhere at some point.
+- Interested by Flutter, but I putting it on the side for now.
+- React Native seems like a good solution as well. Difficult choice but we have to start somewhere at some point.
 ---
 Backend:
-- I am familiar with PHP and Laravel as we made two projects with it at the campus.
+- I started with PHP and Laravel as we made two projects with it at the campus. But I focus now on Java and Spring Boot.
 - Learn a lot about MVC model and the way a backend works.
-- Python and Java/Java Spirnt are next in the list. (Can't wait !)
-- Honestly thrilling to go deeper into this type of field.
+- The Python / FastAPI combo is very interesting as well.
+- Now, I am able to create an API with different components and their CRUD and connect it to both the Database and the Front
 
 Database > 
 - Learning SQL (MySQL) / No SQL (MongoDB).
@@ -38,7 +36,7 @@ Database >
 ---
 
 I'm looking forward to this journey in this amazing community, and I'll try to participate to Open Source project as soon as I will be a bit more confident in my skills.
-Please, contact me if you have any question or if you would like I join you in a side quest !
+Please, contact me if you have any question or if you would like me to join you in a side quest !
 
 Best,
 Alex
